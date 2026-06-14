@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>THE ARCHIVE — The Information Syndicate</title>
+<meta name="description" content="Every transmission from The Information Syndicate, indexed.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=VT323&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="archive.css">
+</head>
+<body>
+<div class="scanlines" aria-hidden="true"></div>
+<div class="crt-flicker" aria-hidden="true"></div>
+
+<main class="terminal">
+
+  <header class="arc-head">
+    <a class="backlink" href="index.html">&lsaquo; SYNDICATE://main</a>
+    <h1 class="chrome-title arc-title"><span>THE</span><span>ARCHIVE</span></h1>
+    <p class="tagline">&gt; every transmission, logged and indexed. newest signal first.</p>
+  </header>
+
+  <section id="archive" class="archive" aria-label="video archive">
+    <!-- cards injected here -->
+  </section>
+
+  <p id="empty-note" class="empty-note" hidden>
+    &gt; no transmissions found in the log. check videos-data.js
+  </p>
+
+  <footer class="baseline arc-baseline">
+    <span>SYNDICATE TRANSMISSION LOG</span>
+    <span class="baseline-dot">&bull;</span>
+    <span>STILL BROADCASTING</span>
+  </footer>
+
+</main>
+
+<script src="fit-title.js"></script>
+<script src="videos-data.js"></script>
+<script src="archive.js"></script>
+</body>
+</html>
