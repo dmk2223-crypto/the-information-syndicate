@@ -13,6 +13,13 @@
 window.SYNDICATE_VIDEOS = [
 
   {
+    id:    "y-S74aoud54",
+    title: "My Infinite Money Machine Has One Problem",
+    date:  "June 2026",
+    desc:  "Elon Musk just became the world's first trillionaire. I'm next. Using a Raspberry Pi, a GAN trained on a certain politician, and the streets of New York City, I built a machine that generates NFTs. Strangers pressed the button. I waited for the money to roll in. This is the story of how I went from rags to riches to rags."
+  },
+   
+  {
     id:    "BZCtGC7Azow",
     title: "Breaking Bad Made Me Buy a Receipt Printer",
     date:  "June 2026",
