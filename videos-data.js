@@ -13,6 +13,13 @@
 window.SYNDICATE_VIDEOS = [
 
   {
+    id: "5ja4ySbJTsE",
+  title: "I Built Elon Musk an AI Therapist with a Receipt Printer",
+  date: "June 2026",
+  desc: "Elon Musk is no longer a trillionaire and is almost certainly suffering. So I built him an AI therapist out of a receipt printer. AI therapy is cheap, always available, and does not work. Companies deploy it to vulnerable people nevertheless. So I built my own on a local language model running on my Macbook wired to a Star TSP100 receipt printer. Her name is Doctor Reese Eet. I tested her on strangers in NYC before reaching out to Elon. This is a video about AI therapy, my receipt printer, and the consequences of treating emotional support as a product.",
+  },
+   
+   {
     id:    "y-S74aoud54",
     title: "My Infinite Money Machine Has One Problem",
     date:  "June 2026",
